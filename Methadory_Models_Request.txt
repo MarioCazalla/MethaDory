@@ -1,0 +1,11 @@
+SVM models and execution files for Methadory
+
+Hi @f-ferraro,
+
+My name is Mario Cazalla and I am a PhD student in La Paz Hospital (Madrid, Spain). I am a bioinformatician working hard in episignature discovery in rare diseases. I’ve been exploring Methadory and I find it to be a very useful tool for using in my work.
+I am very interested in testing the tool and seeing its potential. However, I noticed that certain SVM models required to run the tool are not currently available in the repository. I am reaching out to kindly ask if you could provide these models (or a link to download them). 
+
+Thank you in advance for your time and help. I look forward to hearing from you!
+Best regards,
+
+Mario Cazalla
